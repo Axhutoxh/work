@@ -1,4 +1,4 @@
-# vatherx (duplicate_vather)
+#(duplicate_work)
 
 A Quasar Framework app
 
